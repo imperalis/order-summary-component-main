@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [PLACEHOLDER](https://your-solution-url.com)
-- Live Site URL: [PLACEHOLDER](https://your-live-site-url.com)
+- Solution URL: [Order Summary Interface Component | Resolution](https://www.frontendmentor.io/solutions/order-summary-interface-component-resolution-IEfFKK2vde)
+- Live Site URL: [Order Summary Interface Component](https://imperalis.github.io/order-summary-component-main/)
 
 <br>
 
