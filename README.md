@@ -13,7 +13,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-  - [Frontend Mentor Profile](#author)
+  - [Frontend Mentor Profile](#frontend-mentor-profile)
 
 
 
